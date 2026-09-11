@@ -36,6 +36,11 @@ AI 编程工具可以快速生成页面、接口、测试草稿和文档初稿�
 
 关于 Vibe Coding 项目中业务判断、代码质量、上线运维和持续维护如何衔接，可以阅读官网文章：[Vibe Coding 软件开发：AI 写代码后，团队交付什么](https://codex-inc.cn/insights/vibe-coding-software-delivery-business-value/)。
 
+官网配套文章：
+
+- [Vibe Coding 项目需求评审清单](https://codex-inc.cn/insights/vibe-coding-project-requirements-checklist/)：开发前确认用户任务、范围、数据权限和验收条件。
+- [AI 生成代码验收清单](https://codex-inc.cn/insights/ai-generated-code-acceptance-checklist/)：上线前检查功能、异常处理、安全、部署和维护责任。
+
 ## 贡献原则
 
 - 清单要能在真实项目中执行，不写空泛口号。
